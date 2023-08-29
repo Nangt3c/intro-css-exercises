@@ -1,0 +1,19 @@
+.odd {
+    background-color: #ffadb9;
+    font-family: DejaVu Sans;
+}
+
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.num3 {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: #a9ffa9;
+    font-size: 24px;
+    font-weight: bold;
+}

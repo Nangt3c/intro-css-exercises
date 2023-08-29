@@ -1,0 +1,16 @@
+/*Group selection*/
+.b1,
+.b2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+/*Individual selection*/
+.b1 {
+    background-color: black;
+    color: white;
+}
+
+.b2 { 
+    background-color: yellow;
+}
